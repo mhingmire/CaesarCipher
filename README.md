@@ -50,6 +50,6 @@ Wkh vhfuhw phvvdjh lv: wkhuh lv qr vhfuhw, kd kd kd kd kd.
   ```
 2.
  ```bash
-Wkdqnv iru wublqj wklv rxw! 
-Khuh’v dq dfwxdo ixq idfw: L kdyh rqh ri wkh uduhvw eorrg w|shv (DE+)!
+Ocvifn ajm omtdib ocdn jpo! Czmz’n vi vxopvg api avxo:
+D cvqz jiz ja ocz mvmzno wgjjy otkzn (VW+)!
  ```
