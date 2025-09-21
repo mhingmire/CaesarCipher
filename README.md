@@ -36,12 +36,19 @@ Z → C
 3. Compile the program:  
    ```bash
    javac CaesarCipher.java
+    ```
+
+---
 
 ## Fun Challenge
 If you have read till here and are interested in the project, download the file and run these 2 encrypted messages below to find fun-facts about me!. Remember you have to get the correct shift to decode the message correctly.
-1.
+1.  
+ ```bash
 Frqjudwxodwlrqv rq ghfrglqj wkh phvvdjh! 
-Wkh vhfuhw phvvdjh lv: wkhuh lv qr vhfuhw, kd kd kd kd kd. 
-2. 
+Wkh vhfuhw phvvdjh lv: wkhuh lv qr vhfuhw, kd kd kd kd kd.
+  ```
+2.
+ ```bash
 Wkdqnv iru wublqj wklv rxw! 
 Khuh’v dq dfwxdo ixq idfw: L kdyh rqh ri wkh uduhvw eorrg w|shv (DE+)!
+ ```
