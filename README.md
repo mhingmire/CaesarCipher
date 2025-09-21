@@ -42,6 +42,7 @@ Z → C
 
 ## Fun Challenge
 If you have read till here and are interested in the project, download the file and run these 2 encrypted messages below to find fun-facts about me!. Remember you have to get the correct shift to decode the message correctly.
+
 1.  
  ```bash
 Frqjudwxodwlrqv rq ghfrglqj wkh phvvdjh! 
